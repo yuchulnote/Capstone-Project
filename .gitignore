@@ -1,0 +1,6 @@
+archive/*
+data/*
+runs/*
+ultralytics/*
+wandb/*
+order_here_fistGUI/__pycache__/*

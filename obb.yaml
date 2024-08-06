@@ -1,0 +1,6 @@
+train: C:\Capstone\data\obb\train
+val: C:\Capstone\data\obb\val
+
+names:
+  0: 'cup'
+nc: 1
